@@ -1,0 +1,7 @@
+//8
+
+Créer un programme qui permet aux étudiants de MolenGeek de savoir leurs jours d'e-learning et les jours en présentielle.
+Via un prompt, demandez à l'étudiant le jour en question(lundi, mardi, mercredi, jeudi, vendredi).
+Si l'étudiant répond lundi ou mardi ou mercredi, le programme lui répond via une console.log qu'il est en e-learning.
+S'il répond jeudi et vendredi, le programme lui répond via une console.log qu'ils sont en présentielle.
+S'il répond autre chose que ces 5 propositions, le programme lui répond que sa demande est érronée.
